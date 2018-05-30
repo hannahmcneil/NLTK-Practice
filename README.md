@@ -1,2 +1,2 @@
-# NLTK-Practice
-A place for practicing using NLTK
+# Data Practice
+A place for rough drafts of data analysis (pandas & NLTK)
